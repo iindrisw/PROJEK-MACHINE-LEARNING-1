@@ -1,4 +1,4 @@
-Proyek Akhir Pembelajaran Mesin (INF62325)
+*Proyek Akhir Pembelajaran Mesin (INF62325)
 Penerapan Algoritma Regresi Linear untuk Memprediksi Nilai Akhir Siswa Berdasarkan Faktor Internal dan Eksternal Sekolah
 
 Anggota Kelompok
